@@ -12113,7 +12113,7 @@ progress {
     border-radius: 2px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset; }
   progress .progress-bar-fallback span, progress[value]::-webkit-progress-value {
-    background-color: #fa9b44;
+    background-color: #344be2;
     border-radius: 2px; }
   progress .progress-bar-fallback {
     width: 100%;
