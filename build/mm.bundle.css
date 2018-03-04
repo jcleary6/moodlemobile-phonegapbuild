@@ -3976,8 +3976,8 @@ a.subdued {
     .bar.bar-balanced.bar-footer {
       background-image: linear-gradient(180deg, #394e00, #394e00 50%, transparent 50%); }
   .bar.bar-energized {
-    border-color: #f7a304;
-    background-color: #fbad1a;
+    border-color: #003fed;
+    background-color: #0337a8;
     background-image: linear-gradient(0deg, #f7a304, #f7a304 50%, transparent 50%);
     color: #fff; }
     .bar.bar-energized .title {
@@ -3985,8 +3985,8 @@ a.subdued {
     .bar.bar-energized.bar-footer {
       background-image: linear-gradient(180deg, #f7a304, #f7a304 50%, transparent 50%); }
   .bar.bar-royal {
-    border-color: #dd6c06;
-    background-color: #f98012;
+    border-color: #013c7c;
+    background-color: #004c9f;
     background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
     color: #fff; }
     .bar.bar-royal .title {
@@ -6875,7 +6875,7 @@ button.item.item-button-right,
   padding-top: 8px;
   padding-bottom: 8px;
   min-height: 30px;
-  background-color: #f5f5f5;
+  background-color: #dbdbdb;
   color: #222;
   font-weight: 500; }
 
@@ -9229,8 +9229,8 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-positive {
-    border-color: #0064d2;
-    background-color: #0064d2;
+    border-color: #0e328b;
+    background-color: #0e328b;
     color: #fff; }
     .button.button-positive:hover {
       color: #fff;
@@ -10595,7 +10595,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #0e328b;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
@@ -10785,8 +10785,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #f98012;
-    border: 0 solid #f98012;
+    color: #0e328b;
+    border: 0 solid #0e328b;
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -10836,8 +10836,8 @@ p.item-text-wrap {
       border-bottom-width: 3px; }
 
 .mm-menu-selected:not(.button), .mm-split-item-selected:not(.button), .item.mma-mod-lesson-selected:not(.button), .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button) {
-  background-color: #f5f5f5;
-  border-left: 5px solid #fa9b44;
+  background-color: #0e328b;
+  border-left: 5px solid #0e328b;
   padding-left: 12px; }
   .mm-menu-selected:not(.button).item-avatar, .mm-menu-selected.item-media:not(.button), .item-media.mm-split-item-selected:not(.button), .item-media.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-media.mma-mod-lesson-selected.itemcenter:not(.button), .mm-menu-selected.item-avatar-center:not(.button), .item-avatar-center.mm-split-item-selected:not(.button), .item-avatar-center.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-avatar-center.mma-mod-lesson-selected.itemcenter:not(.button), .mm-split-item-selected:not(.button).item-avatar, .mm-split-item-selected.item-progress:not(.button), .mm-menu-selected.item-progress:not(.button), .item-progress.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-progress.mma-mod-lesson-selected.itemcenter:not(.button), .item.mma-mod-lesson-selected:not(.button).item-avatar, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar, .mm-menu-selected:not(.button).item-avatar-left, .mm-split-item-selected:not(.button).item-avatar-left, .item.mma-mod-lesson-selected:not(.button).item-avatar-left, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar-left {
     padding-left: 68px; }
@@ -12637,7 +12637,7 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
         width: 100%; }
         .progress-chart-container .progress-doughnut .progress-indicator svg .circle {
           stroke-width: 15px;
-          stroke: #fa9b44;
+          stroke: #0e328b !important;
           fill: none;
           stroke-dasharray: 173;
           stroke-dashoffset: 173;
@@ -13245,7 +13245,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #0e328b;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
