@@ -1,3 +1,4 @@
+
 {
     "app_id" : "org.upra.corsi",
     "appname": "Materiali Online",
@@ -12,6 +13,7 @@
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "https://corsi.upra.org",
+     "presets" : {"url": "https://corsi.upra.org"},
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
